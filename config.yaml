@@ -1,0 +1,10 @@
+name: Renogy-BT-HAOS
+version: "1.0.0"
+slug: renogy_bt_haos
+description: "A custom add-on that connects to renogy charge controller via bluetooth."
+arch:
+  - aarch64
+  - amd64
+  - armhf
+options: {}
+schema: {}
